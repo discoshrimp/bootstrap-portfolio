@@ -1,0 +1,32 @@
+.roy{
+    background-color: teal;
+    color: white;
+    font-size: 36px;
+    line-height: 52px;
+}
+.me {
+    background-color: white;
+    color: teal;
+    font-size: 36px;
+    line-height: 52px;
+}
+.underline {
+    padding:3px;
+    background-color: gray;
+    border-radius: 25px;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+}
+footer {
+    background-color: gray;
+    padding: 10px;
+    border-top: 2px solid teal;
+    text-align: center;
+}
+body {
+    align-content: center;
+    width:960px;
+}
