@@ -1,11 +1,6 @@
-.roy{
-    background-color: teal;
-    color: white;
-    font-size: 36px;
-    line-height: 52px;
-}
+
 .me {
-    color: teal;
+    color: #17a2b8;;
     font-size: 36px;
     line-height: 52px;
     margin: 5px;
@@ -14,7 +9,7 @@ p{
     margin: 10px 10px 10px 20px;
 }
 .main {
-    border-top:2px solid teal;
+    border-top:2px solid #17a2b8;;
     background-color: rgb(51, 51, 51);
     color: white;
 }
@@ -24,20 +19,38 @@ p{
     border-radius: 25px;
 }
 
-img {
+.index-photo {
     height: 250px;
     width: 250px;
     margin: 10px 20px 10px 0px;
 }
-footer {
+.footer {
     background-color: gray;
     padding: 10px;
-    border-top: 2px solid teal;
+    border-top: 2px solid #17a2b8;;
     text-align: center;
+    color: white;
 }
-/*body {
-    margin: auto;
-    align-content: center;
-    width:960px;
+
+.portons {
+    text-align: center;
+    margin-top: 5px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    height: 200px;
+    width: 180px;
+    color: white;
+    border-radius: 10px;
 }
-*/
+
+
+.spacer {
+    height:20px;
+}
+
+.container-color {
+    background-color:  rgb(51, 51, 51);
+    border-radius: 5px;
+}
+
