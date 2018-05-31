@@ -1,4 +1,5 @@
 
+
 .me {
     color: #17a2b8;;
     font-size: 36px;
@@ -54,3 +55,20 @@ p{
     border-radius: 5px;
 }
 
+@media only screen and (max-width: 1250px) {
+    .container {
+        width: 980px;
+    }
+}
+
+@media only screen and (max-width: 950px) {
+    .container {
+        width: 768px;
+    }
+}
+
+@media only screen and (max-width: 738px) {
+    .container {
+        width: 640px;
+    }
+}
